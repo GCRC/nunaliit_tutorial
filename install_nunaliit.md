@@ -15,7 +15,7 @@ With a copy of Ubuntu downloaded, you will now create a virtual machine using th
 
 <h3>Step 2.2 - Create a new virtual machine:</h3>
 <p>Once successfully installed, run VirtualBox and click the <strong>New</strong> button.</p>
-![VirtualBox Main Window – Create a new virtual machine](media/virtualboxscreenshot.png)
+![](media/virtualboxscreenshot.png)
 
 <h3>Step 2.3 - Create a new virtual machine:</h3>
 <p>Provide the name of the OS and select the correct type and version. In our case it will be;</p>
